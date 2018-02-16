@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "5a357b0f9123555619947717" }, "name" : "Admin", "email" : "admin@yahoo.ie", "username" : "root", "password" : "root", "role" : "admin" }
+{ "_id" : { "$oid" : "5a3951f30e718b0715e7fc6c" }, "email" : "test@test.com", "password" : "password123", "username" : "Monika", "role" : "customer", "__v" : 0 }
+{ "_id" : { "$oid" : "5a3952810e718b0715e7fc6d" }, "email" : "test@teest.com", "password" : "password123", "username" : "Monikas", "role" : "customer", "__v" : 0 }

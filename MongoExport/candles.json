@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "5a32c51c8ebbdf7fc4b671e7" }, "name" : "Yanke Vanilla", "smell" : "Vanilla", "color" : "yellow", "price" : 10, "url" : "http://www.yankeecandle.co.uk/media/images/product/medium/1507743E_GB.jpg", "quantity" : 100 }
+{ "_id" : { "$oid" : "5a32c5598ebbdf7fc4b671f3" }, "name" : "Yanke Lavander", "smell" : "Lavander", "color" : "Violet", "price" : 10, "url" : "http://www.yankeecandle.co.uk/media/images/product/medium/1043443E_GB.jpg", "quantity" : 100 }
+{ "_id" : { "$oid" : "5a330beb4dbdbe2893ce8df5" }, "name" : "Fresh Cut Rose", "smell" : "Rose", "color" : "Rose", "price" : "14", "url" : "http://www.yankeecandle.co.uk/media/images/product/large/1038367E_GB.jpg", "quantity" : 150, "__v" : 0 }

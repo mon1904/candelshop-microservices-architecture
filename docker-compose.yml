@@ -1,0 +1,10 @@
+version: '2'
+services:
+  login:
+    build: login
+  eshop:
+    build: Node
+  frontend:
+    build: Vue
+  orders:
+    build: orders
